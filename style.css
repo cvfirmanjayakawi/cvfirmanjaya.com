@@ -1,0 +1,17 @@
+.masthead {
+    height: 250px;
+    background-image: url('/Gambar/Header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .masthead2 {
+    height: 250px;
+    /* background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.linknounderline{
+  text-decoration: none;
+}
